@@ -1,0 +1,1 @@
+# Configura-o-do-JIRA-para-loja-ficticia
