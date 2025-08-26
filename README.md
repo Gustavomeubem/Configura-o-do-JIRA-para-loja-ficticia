@@ -1,7 +1,7 @@
 # Configura-o-do-JIRA-para-loja-ficticia
 
 📋 Visão Geral do Projeto
-Este projeto estabelece a configuração completa do JIRA para gerenciar o desenvolvimento da loja virtual SwagLabs Shopping utilizando metodologia Scrum. Inclui todos os componentes necessários para um fluxo de trabalho ágil eficiente.
+Este projeto estabelece a configuração completa do JIRA para gerenciar o desenvolvimento da loja virtual ficticia utilizando metodologia Scrum. Inclui todos os componentes necessários para um fluxo de trabalho ágil eficiente.
 
 🎯 Estrutura do Repositório
 text
@@ -26,9 +26,9 @@ swaglabs-jira-setup/
 │
 └── README.md
 📖 Documentação Completa
-Configuração do JIRA para SwagLabs Shopping
-1. Visão Geral do Projeto SwagLabs Shopping
-SwagLabs Shopping é uma loja virtual de e-commerce que será desenvolvida utilizando metodologias ágeis com foco em entrega contínua de valor.
+Configuração do JIRA para loja ficticia
+1. Visão Geral do Projeto loja ficticia
+loja ficticia é uma loja virtual de e-commerce que será desenvolvida utilizando metodologias ágeis com foco em entrega contínua de valor.
 
 2. Metodologia Scrum Implementada
 2.1. Roles Definidas
@@ -58,7 +58,7 @@ Sprint Retrospective (45 minutos/sprint)
 3.1. Esquema de Projeto
 Tipo de projeto: Scrum
 
-Nome do projeto: SwagLabs Shopping
+Nome do projeto: loja ficticia
 
 Chave do projeto: SLS
 
