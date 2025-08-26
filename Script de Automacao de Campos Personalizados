@@ -1,0 +1,16 @@
+# custom-fields-setup.py
+from jira import JIRA
+
+# Configuração de conexão
+jira_options = {'server': 'https://your-domain.atlassian.net'}
+jira = JIRA(options=jira_options, basic_auth=('email', 'api_token'))
+
+# Criar campo personalizado para Business Value
+business_value_field = {
+    "name": "Business Value",
+    "description": "Value to the business from 1-10",
+    "type": "number",
+    "searcherKey": "number"
+}
+
+jira.create_custom_field(field_data=business_value_field)
