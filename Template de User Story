@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "project": {
+      "key": "SLS"
+    },
+    "summary": "Como [persona], eu quero [ação] para [benefício]",
+    "description": "**Critérios de Aceitação:**\n- [ ] Critério 1\n- [ ] Critério 2\n- [ ] Critério 3",
+    "issuetype": {
+      "name": "Story"
+    },
+    "customfield_10010": 5,
+    "customfield_10011": 3,
+    "priority": {
+      "name": "Medium"
+    }
+  }
+}
