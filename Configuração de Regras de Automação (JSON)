@@ -1,0 +1,22 @@
+{
+  "rules": [
+    {
+      "name": "Auto-assign bugs to QA",
+      "trigger": {
+        "type": "jira.issue.created",
+        "filters": [
+          {
+            "type": "issue.issueType",
+            "value": "Bug"
+          }
+        ]
+      },
+      "actions": [
+        {
+          "type": "jira.issue.assign",
+          "value": "qa-team"
+        }
+      ]
+    }
+  ]
+}
