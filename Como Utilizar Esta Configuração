@@ -1,0 +1,62 @@
+📊 Como Utilizar Esta Configuração
+Configuração Inicial do JIRA
+
+Criar projeto com a chave "SLS"
+
+Configurar esquema de permissões
+
+Importar workflow personalizado
+
+Configurar Campos Personalizados
+
+Executar script de configuração de campos
+
+Configurar screens para cada tipo de issue
+
+Configurar Automações
+
+Importar regras de automação do JSON
+
+Configurar integrações com GitHub e Slack
+
+Configurar Confluence
+
+Criar espaços conforme documentação
+
+Configurar templates de página
+
+Popular Backlog
+
+Criar épicos principais
+
+detalhar stories com o template fornecido
+
+🔄 Processo de Desenvolvimento
+Product Owner prioriza o backlog
+
+Equipe seleciona itens para o sprint durante o planning
+
+Desenvolvedores trabalham nas issues, atualizando status
+
+QA testa as funcionalidades completadas
+
+Scrum Master monitora métricas e facilita ceremonies
+
+📈 Métricas de Sucesso
+Aumento gradual na velocidade da equipe
+
+Redução no tempo de ciclo das issues
+
+Aumento na taxa de conclusão de stories
+
+Melhoria na qualidade (redução de bugs pós-implantação)
+
+🛠 Suporte e Manutenção
+Para questões sobre esta configuração:
+
+Consultar documentação no Confluence
+
+Contactar o Scrum Master
+
+Verificar regras de automação no JIRA
+
